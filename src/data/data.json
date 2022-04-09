@@ -1,21 +1,17 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Nearshore IT outsourcing services",
+    "paragraph": "Any relationship, private or professional, is healthy, sustainable and productive when both parties benefit. IT outsourcing services are no exception. How do we know if we can build an IT outsourcing relationship that will be great for your projects, your organisation and K&C and our specialists? Let's try to find out"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "INFO-LEADS TEAM",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Controlled - Fixed Price Agile",
+      "Dedicated Team"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Expert as a Service",
+      "Fixed Price Website Development"
     ]
   },
   "Gallery": [
@@ -67,34 +63,29 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-steam-square",
+      "name": "Software development",
+      "text": "web, native, hybrid, enterprise portals"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud",
+      "name": "Cloud-native app development",
+      "text": "Flexible cloud development & consulting services"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-server",
+      "name": "DevOps - teams & consultants",
+      "text": "DevOps teams, development and consulting sevices"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-area-chart",
+      "name": "Software testing and QA - manual/automated",
+      "text": "Software Quality Assurance"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-database",
+      "name": "Big Data / AI / ML",
+      "text": "Software Development For Big Data Systems"
     }
   ],
   "Testimonials": [
@@ -132,32 +123,62 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Michael Krusche",
+      "job": "CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Claudia Soehlemann",
+      "job": "Head of Sales"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Natalie Korol",
+      "job": "Head of Personnel"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Maxim Golovin",
+      "job": "Branch Manager Poland"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Vyara kamberska",
+      "job": "Head of Finance"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Bohdan Tsys",
+      "job": "DevOps/System Administrator"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Devin Hayes",
+      "job": "Senior Sales Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Serhii Nehoda",
+      "job": "AWS Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "zhangxuezhong",
+      "job": "Node JS Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Yaroslav Jin",
+      "job": "Full-Stack Software Engineer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "St.-Pauls-Platz 9, 80336, München, Deutschland",
+    "phone": "+49 89 4161 7569-00",
+    "email": "contact@kruschecompany.com",
+    "facebook": "https://www.facebook.com/KruscheCompany/",
+    "twitter": "https://twitter.com/kruschecompany",
+    "youtube": "https://www.youtube.com/channel/UCoDXoC7HcK5wb9omL8quPhg"
   },
   "Features": [
     {
